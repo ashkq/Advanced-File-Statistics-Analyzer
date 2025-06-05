@@ -2,7 +2,7 @@
 
 ### 📊 Visual Overview
 
-![File Statistics Function Visual](file-stats-visual.png)
+![File Statistics Function Visual](stats-visual.png)
 
 The function initiates by invoking the `open()` built-in method to instantiate a file object from the path provided via the `in_file` parameter, subsequently binding this object to the `open_file` identifier for stream manipulation. It proceeds to declare and zero-initialize several accumulator variables — `lines`, `words`, `characters`, and more — which serve as statistical counters for:
 
