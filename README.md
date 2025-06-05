@@ -1,4 +1,4 @@
-## 📄 Advanced File Statistics Analyzer – Detailed Breakdown
+## 📄 Advanced File Statistics Analyzer
 
 ### 📊 Visual Overview
 
